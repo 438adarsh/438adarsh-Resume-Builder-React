@@ -2,12 +2,12 @@
 Resume-Builder is a single page web application created in React Library.
 
 Technologies
--React with Hooks
--React-Bootstrap
--React-Redux
--Icons
--React-Icons
-Feel free to use the source to create your resume.
+React with Hooks <br/>
+React-Bootstrap <br/>
+React-Redux <br/>
+Icons <br/>
+React-Icons <br/>
+Feel free to use the source to create your resume. <br/>
 Basic knowledge of HTML5, CSS and React is sufficient if you want to customize the resume for your requirements.
 
 How to use
